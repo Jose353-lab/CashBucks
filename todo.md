@@ -128,7 +128,7 @@
 - [x] Create seed data for demo
 
 ## Deployment
-- [ ] Create checkpoint (next step)
+- [x] Create checkpoint
 - [x] Test production build
 - [x] Verify all features working
 - [x] Document setup instructions
